@@ -22,7 +22,7 @@ The Inventory Management System is a Java-based application designed to help bus
    ```bash
    cd inventory-management-system
    
-3.	Compile the Java files:
+3. Compile the Java files:
    
    ```bash
    javac *.java
@@ -32,15 +32,14 @@ The Inventory Management System is a Java-based application designed to help bus
   ```bash
    java Main
 
-
 ## Usage
 
-	•	Admin Login:
-	  	Username: admin
-	    Password: 123
-	•	Supplier Login:
-	    Username: supplier
-      Password: 123
+•Admin Login:
+	Username: admin
+	Password: 123
+•Supplier Login:
+	Username: supplier
+	Password: 123
 
 
 
