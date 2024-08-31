@@ -34,12 +34,13 @@ The Inventory Management System is a Java-based application designed to help bus
 
 ## Usage
 
-•Admin Login:
-	Username: admin
-	Password: 123
-•Supplier Login:
-	Username: supplier
-	Password: 123
+- **Admin Login**:  
+  - **Username**: `admin`  
+  - **Password**: `123`
+
+- **Supplier Login**:  
+  - **Username**: `supplier`  
+  - **Password**: `123`
 
 
 
