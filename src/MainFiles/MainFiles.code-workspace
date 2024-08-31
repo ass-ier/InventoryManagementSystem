@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "MainFiles",
+			"path": "../../../Stock-Management-System/StockManagementSystem/src/MainFiles"
+		},
+		{
+			"name": "src",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\user\\Desktop\\Stock-Management-System\\mysql-connector-java-8.0.30.jar",
+			"c:\\Users\\user\\Desktop\\Stock-Management-System\\rs2xml.jar",
+			"c:\\Users\\user\\Desktop\\Stock-Management-System\\StockManagementSystem\\dist\\FASSystem.jar"
+		]
+	}
+}

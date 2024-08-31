@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\user\\Desktop\\Stock-Management-System\\mysql-connector-java-8.0.30.jar",
+        "c:\\Users\\user\\Desktop\\Stock-Management-System\\rs2xml.jar",
+        "/Users/triplea/Downloads/Stock-Management-System/mysql-connector-java-8.0.30.jar",
+        "/Users/triplea/Downloads/Stock-Management-System/rs2xml.jar"
+    ]
+}

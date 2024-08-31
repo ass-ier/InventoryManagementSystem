@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/triplea/Downloads/Stock-Management-System-2/mysql-connector-java-5.1.37-bin.jar",
+        "/Users/triplea/Downloads/Stock-Management-System-2/rs2xml.jar"
+    ]
+}
