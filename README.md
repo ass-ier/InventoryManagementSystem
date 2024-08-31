@@ -29,7 +29,7 @@ The Inventory Management System is a Java-based application designed to help bus
 
 4. Run the application
 
-  ```bash
+   ```bash
    java Main
 
 ## Usage
@@ -40,9 +40,6 @@ The Inventory Management System is a Java-based application designed to help bus
 •Supplier Login:
 	Username: supplier
 	Password: 123
-
-
-
 
 
 
