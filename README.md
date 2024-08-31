@@ -1,18 +1,51 @@
-## Getting Started
+## Overview
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The Inventory Management System is a Java-based application designed to help businesses efficiently manage their inventory. It allows administrators and suppliers to log in, view, add, update, and manage inventory items seamlessly. This system is built with a focus on ease of use and provides essential features for maintaining accurate stock records.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+- **Admin Dashboard**: Provides comprehensive control over inventory management, including adding, updating, and removing products.
+- **Supplier Dashboard**: Allows suppliers to manage their products, view inventory levels, and update product information.
+- **User Authentication**: Secure login for both admin and supplier roles.
+- **Product Management**: Ability to add, edit, and delete products with details such as name, category, quantity, and price.
+- **Inventory Tracking**: Real-time updates on inventory levels.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Installation
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Clone the repository:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+   ```bash
+   git clone https://github.com/yourusername/inventory-management-system.git
+   
+2. Navigate to the project directory:
 
-## Dependency Management
+   ```bash
+   cd inventory-management-system
+   
+3.	Compile the Java files:
+   
+   ```bash
+   javac *.java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+4. Run the application
+
+  ```bash
+   java Main
+
+
+## Usage
+
+	•	Admin Login:
+	  	Username: admin
+	    Password: 123
+	•	Supplier Login:
+	    Username: supplier
+      Password: 123
+
+
+
+
+
+
+   
+
